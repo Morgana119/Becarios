@@ -8,7 +8,7 @@ solucionar problemas de programación competitiva, grabar videos con las solucio
 
 [canal de youtube tardes de coding](https://www.youtube.com/channel/UCaDLn1cv__Xz93lhLpLCKWw)
 
-![Tech Interviews 3](images/Tech3.jpg) |![Tech Interviews 4](images/Tech4.jpg)
+![Tech Interviews 3](assets/Tech3.jpg) |![Tech Interviews 4](images/Tech4.jpg)
 :-------------------------:|:-------------------------:
 ![Tech Interviews 1](images/Tech1.jpg) | ![Tech Interviews 2](images/Tech2.jpg)
 
