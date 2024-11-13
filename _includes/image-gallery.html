@@ -21,7 +21,8 @@
 
 {% assign images = site.static_files | where_exp: "file", "file.path contains include.folder" %}
 {% assign images = images | where_exp: "file", "file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG'" %}
-{% assign images = images | sample: images.size %} 
+{% assign image_count = images.size | plus: 0 %}
+{% assign images = images | sample: image_count %}
 
 <ul class="image-gallery">
     {% for file in images %}
