@@ -51,7 +51,6 @@ Solucionar problemas de programación competitiva, grabar videos con las solucio
 - Rodrigo Terán Hernández (2024)
 - Ximena Pérez Escalante (2024)
 
-
 ## Simulador para Aprendizaje usando City Skylines (Serious Games)
 
 Generar escenarios y simulaciones útiles para la enseñanza de conceptos de urbanismo, ingeniería civil, arquitectura y áreas afines, usando un videojuego comercial ([City Skylines](https://store.steampowered.com/app/255710/Cities_Skylines/)). Para ello, se utilizan herramientas de edición de escenarios del juego y se desarrollan mods que puedan ser distribuidos por Steam.
