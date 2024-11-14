@@ -10,7 +10,7 @@ Aquí encontrarás todos los proyectos de servicio becario realizados con el Dr.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include image-gallery.html folder="assets/img" %}
+        {% include image-gallery.liquid folder="assets/img" %}
     </div>
 </div>
 
