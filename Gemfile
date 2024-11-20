@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
+
+gem "jekyll", "~> 4.2"
+
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
@@ -22,6 +25,7 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'sass-embedded', '< 1.80.3'
 end
+
 group :other_plugins do
     gem 'css_parser'
     gem 'feedjira'
