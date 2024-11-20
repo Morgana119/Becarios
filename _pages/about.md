@@ -8,12 +8,6 @@ permalink: /
 
 Aquí encontrarás todos los proyectos de servicio becario realizados con el Dr. Benjamín Váldes. Si te gustaría integrarte a algún proyecto, por favor envía un correo a [bvaldesa@tec.mx](mailto:bvaldesa@tec.mx) un semestre antes para poder platicar y ver en qué proyecto podrías participar.
 
-<!-- <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include image-gallery.liquid folder="assets/img" %}
-    </div>
-</div> -->
-
 ## Entrenamiento para Entrevistas Técnicas o Tardes de Coding
 
 Solucionar problemas de programación competitiva, grabar videos con las soluciones y hospedar pláticas con invitados de compañías BigTech como Microsoft, Google, Facebook, para que los alumnos entiendan cómo funciona la industria, el proceso de reclutamiento y las entrevistas técnicas.
