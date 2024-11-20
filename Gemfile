@@ -1,9 +1,7 @@
 source 'https://rubygems.org'
-
-gem 'github-pages', group: :jekyll_plugins
-
 group :jekyll_plugins do
     gem 'classifier-reborn'
+    gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
@@ -23,8 +21,8 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'sass-embedded', '< 1.80.3'
+    gem "kramdown-parser-gfm"
 end
-
 group :other_plugins do
     gem 'css_parser'
     gem 'feedjira'
